@@ -49,10 +49,10 @@ global.psaweria = 'https://saweria.co/FangzBot' //Saweria
 global.donate = '〔 Dᴏɴᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕\n\n››╭─〘 *Donasi* 〙\n╭╡📮: Donasi ngab jangan make bot doang.│\n┝‷✧ *Ovo:* 088215689772\n│┝‷✧ *Dana:* 088215689772\n│┝‷✧ *Gopay:* 088215689772\n│╰───···─────\n│⁺◛˖ Ingin Donasi? Chat nomor owner\n╰──────────···───╮'
 
 /*⫘⫘⫘⫘ GLOBAL NOMOR ⫘⫘⫘⫘⫘*/
-global.nomorbot = '62895394988123' //Nomor Bot mu
-global.nomorown = '6288215689772' //Nomormu
-global.namebot = 'Fangz BOT' //Nama bot mu
-global.nameown = 'Fangz Ganz' //Nama mu
+global.nomorbot = '601140892512' //Nomor Bot mu
+global.nomorown = '601140892512' //Nomormu
+global.namebot = 'ᥫ᭡˖ ࣪ ‹ 𝖎𝖊𝖋𝖆𝖗𝖆𝖜𝖗𝖗𝖇𝖔𝖙𝖟 ‹˖ ࣪ ᥫ᭡' //Nama bot mu
+global.nameown = 'ᥫ᭡˖ ࣪ ‹ 𝖎𝖊𝖋𝖆𝖗𝖆𝖜𝖗𝖗 ‹˖ ࣪ ᥫ᭡' //Nama mu
 
 /*⫘⫘⫘⫘GLOBAL FUNCTION⫘⫘⫘⫘⫘*/
 //KALAU MAGER EDIT, MENDING GAUSAH DI APA² IN. SAMA AJA//
